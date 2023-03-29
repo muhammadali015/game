@@ -4,7 +4,7 @@
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
-
+// commect each thing
 }
 
 AppDelegate::~AppDelegate() 
